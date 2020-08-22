@@ -1,9 +1,10 @@
 {
   "name": "udt-to-svg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Severin Ibarluzea",
   "license": "MIT",
+  "main": "dist/index.js",
   "scripts": {
     "build": "parcel build index.js"
   },
