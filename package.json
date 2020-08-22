@@ -1,0 +1,13 @@
+{
+  "name": "udt-regions-to-svg",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Severin Ibarluzea",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.js"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
